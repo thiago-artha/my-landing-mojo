@@ -64,11 +64,11 @@ export const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-3 text-accent flex-shrink-0" />
-                <span className="text-primary-foreground/80">(11) XXXX-XXXX</span>
+                <span className="text-primary-foreground/80">(11) 98786-7508</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-3 text-accent flex-shrink-0" />
-                <span className="text-primary-foreground/80">contato@arthashipping.com</span>
+                <span className="text-primary-foreground/80">contato@arthashipping.com.br</span>
               </li>
             </ul>
           </div>

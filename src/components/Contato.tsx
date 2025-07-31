@@ -42,7 +42,7 @@ export const Contato = () => {
             Fale Conosco
           </Badge>
           <h2 className="text-4xl lg:text-5xl font-bold text-primary mb-6">
-            Pronto para importar com mais eficiência?
+            Pronto para transportar com mais eficiência?
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Solicite sua cotação gratuita e descubra como podemos otimizar suas importações.
@@ -60,7 +60,7 @@ export const Contato = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">(11) XXXX-XXXX</p>
+                <p className="text-muted-foreground">(11) 98786-7508</p>
                 <p className="text-sm text-muted-foreground mt-1">Horário comercial: 8h às 18h</p>
               </CardContent>
             </Card>
@@ -73,7 +73,7 @@ export const Contato = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">contato@arthashipping.com</p>
+                <p className="text-muted-foreground">contato@arthashipping.com.br</p>
                 <p className="text-sm text-muted-foreground mt-1">Resposta em até 2h úteis</p>
               </CardContent>
             </Card>
